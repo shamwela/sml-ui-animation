@@ -1,6 +1,8 @@
 # Fluffy HUGS — Animated Landing Page
 
-A single-page, animation-heavy recreation of [nft.fluffyhugs.io](https://nft.fluffyhugs.io/) built for the UI Animation.
+A single-page, animation-heavy recreation of [nft.fluffyhugs.io](https://nft.fluffyhugs.io) built for the UI Animation.
+
+Deployed website URL: [https://sml-ui-animation.vercel.app](https://sml-ui-animation.vercel.app)
 
 ## Setup
 
