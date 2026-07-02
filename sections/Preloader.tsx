@@ -170,7 +170,7 @@ export const Preloader = () => {
           <Image
             src={Bunny}
             alt=''
-            preload
+            loading='eager'
             sizes='128px'
             className='h-auto w-full'
           />

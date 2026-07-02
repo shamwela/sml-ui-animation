@@ -207,7 +207,6 @@ export const Hero = () => {
             <Image
               src={src}
               alt={alt}
-              loading='eager'
               fetchPriority={main ? 'high' : 'auto'}
               onLoad={assetLoaded}
               onError={assetLoaded}
